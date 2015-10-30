@@ -1,3 +1,5 @@
-# a.out/*.o
+# igunore file list
+
 a.out
 *.o
+*.log
