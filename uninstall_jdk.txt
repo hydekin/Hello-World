@@ -1,0 +1,9 @@
+cd /Library/Java/JavaVirtualMachines/
+sudo rm -rf jdk1.8.0_66.jdk
+
+cd /Library/Internet\ Plug-Ins/
+sudo rm -rf JavaAppletPlugin.plugin
+
+cd /Library/PreferencePanes/
+sudo rm -rf JavaControlPanel.prefPane 
+
